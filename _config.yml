@@ -1,7 +1,7 @@
 # Site settings
 title: Edinburgh Workshop on Neural-Symbolic AI
 description: June 5, 2025.      Edinburgh, UK.
-# domain: ai-ads.github.io
+# domain: ed-nesy.github.io
 url: https://ed-nesy.github.io
 baseurl: /2025
 
