@@ -38,7 +38,7 @@ Posters will need to be A1 size, portrait (not landscape) and must be submitted 
 All submission deadlines are end-of-day in the Anywhere on Earth (AoE) time zone. If your poster is accepted, your poster will be displayed in a poster session during the workshop. At least one author for each accepted poster must attend the workshop since you will be expected to present your poster at the time set aside for poster presentations. 
 
 If you have any questions, please contact us via email:<br>
-[ed-nesy@gmail.com](mailto:ednesy@gmail.com)
+[ednesy@gmail.com](mailto:ednesy@gmail.com)
 
 <!-- ### Sponsorship
 *WWW 2024 xx Workshop is generously sponsored by xx.*
