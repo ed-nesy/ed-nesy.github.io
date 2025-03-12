@@ -2,8 +2,8 @@
 title: Edinburgh Workshop on Neural-Symbolic AI
 description: June 5, 2025.      Edinburgh, UK.
 # domain: ai-ads.github.io
-url: https://ai-ads.github.io
-baseurl: /web2024
+url: https://ed-nesy.github.io
+baseurl: /2025
 
 author:
   name: 'Hang Yu, Yuzhang Yang'
