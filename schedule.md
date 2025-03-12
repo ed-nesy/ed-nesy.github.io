@@ -10,7 +10,7 @@ The workshop will be held in person on 5 June at the Informatics Forum, Universi
 
 
 <!--
-The Web Conference 2024 homepage for our workshop is [here](https://ai-ads.github.io/web2024/). The following schedule is based on Anywhere on Earth (AoE).
+The Web Conference 2024 homepage for our workshop is [here](https://ai-ads.github.io/2025/). The following schedule is based on Anywhere on Earth (AoE).
 
 9:00--9:05AM **Opening remark:** Fengxiang He, on-site, "Online advertising in the AI era"
 
