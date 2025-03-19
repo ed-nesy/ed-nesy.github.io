@@ -33,6 +33,8 @@ Posters will need to be A1 size, portrait (not landscape) and must be submitted 
 
 **Author notification:** TBD
 
+**Submission deadlineSubmission deadline:** TBD
+
 **Workshop:** TBD<br>
 
 All submission deadlines are end-of-day in the Anywhere on Earth (AoE) time zone. If your poster is accepted, your poster will be displayed in a poster session during the workshop. At least one author for each accepted poster must attend the workshop since you will be expected to present your poster at the time set aside for poster presentations. 
