@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Call for Posters
+title: Call for Talks and Posters
 permalink: /cfp/
 ---
 
@@ -8,7 +8,7 @@ permalink: /cfp/
 
 <!-- and for **the camera ready submission**, which has the correct notice at the first page of your paper. Please use the option `\usepackage[final]{xx}` in your main text file. Please **upload your camera ready version via making a revision at OpenReview**.  -->
 
-The workshop invites poster submissions on a broad range of Neural-Symbolic AI topics, including (but not limited to):  
+We welcome contributions on a broad range of Neural-Symbolic AI topics, including (but not limited to):  
 
 - Probabilistic Logic programming and deep learning 
 - Explainable AI via symbolic methods 
@@ -29,7 +29,7 @@ Posters will need to be A1 size, portrait (not landscape) and must be submitted 
 
 **Submission site via openreview: [Edinburgh Workshop on Neural-Symbolic AI](openreview)** <br>
 
-**Submission deadline:** TBD <br>
+**Abstract registration deadline:** TBD <br>
 
 **Author notification:** TBD
 
