@@ -21,7 +21,7 @@ We welcome contributions on a broad range of Neural-Symbolic AI topics, includin
 
 Posters will need to be A1 size 23.4”w x 33.1”h (W 59.4 x H 89.1 cm) size, portrait (not landscape) and must be submitted in PDF format. Outstanding posters will be invited for a talk. 
 
-Posters will need to be A1 size, portrait (not landscape) and must be submitted in PDF format. 
+<!--Posters will need to be A1 size, portrait (not landscape) and must be submitted in PDF format. -->
 <!-- ~~8~~ 9 pages (excluding references and supplementary materials).  -->
 <!--**6 presented by oral talks.** -->
 <!--**We will select xx papers for short spotlight presentations and 2 papers for the outstanding paper.**-->
