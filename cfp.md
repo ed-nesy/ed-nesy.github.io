@@ -21,8 +21,6 @@ We welcome contributions on a broad range of Neural-Symbolic AI topics, includin
 
 ### Submission guidelines
 
-- Ed-NeSy workshop welcome for talks and posters.
-
 - Submission can be in the form of **abstract** and **extended abstract of 4 pages** (excluding references & appendix). Submissions must follow the **NeurIPS format**. 
 
 - All papers will undergo **double-blind peer review**. All papers will undergo double-blind peer review.  Authors must ensure submissions are fully anonymized (no author names, affiliations, acknowledgments, or other identifying information). 
