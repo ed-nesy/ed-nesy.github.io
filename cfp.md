@@ -19,7 +19,18 @@ We welcome contributions on a broad range of Neural-Symbolic AI topics, includin
 - Benchmarking neural-symbolic AI systems
 - Applications 
 
-Posters will need to be A1 size 23.4”w x 33.1”h (W 59.4 x H 89.1 cm) size, portrait (not landscape) and must be submitted in PDF format. Outstanding posters will be invited for a talk. 
+# Submission guidelines
+
+- Ed-NeSy workshop welcome for talks and posters.
+
+- Submission can be in the form of abstract and extended abstract of 4 pages (excluding references & appendix). Submissions must follow the NeurIPS format. 
+
+- All papers will undergo double-blind peer review. All papers will undergo double-blind peer review.  Authors must ensure submissions are fully anonymized (no author names, affiliations, acknowledgments, or other identifying information). 
+
+-  If your submission is accepted as an abstract, you must prepare a physical poster and present it at the poster session. If accepted as an extended abstract, you will be invited to deliver a 30-minute oral presentation.
+
+
+<!-- Posters will need to be A1 size 23.4”w x 33.1”h (W 59.4 x H 89.1 cm) size, portrait (not landscape) and must be submitted in PDF format. Outstanding posters will be invited for a talk. -->
 
 <!--Posters will need to be A1 size, portrait (not landscape) and must be submitted in PDF format. -->
 <!-- ~~8~~ 9 pages (excluding references and supplementary materials).  -->
@@ -38,7 +49,6 @@ Posters will need to be A1 size 23.4”w x 33.1”h (W 59.4 x H 89.1 cm) size, p
 
 **Workshop**: June 6, 2025, Edinburgh <br>
 
-All submission deadlines are end-of-day in the Anywhere on Earth (AoE) time zone. If your poster is accepted, your poster will be displayed in a poster session during the workshop. At least one author for each accepted poster must attend the workshop since you will be expected to present your poster at the time set aside for poster presentations. 
 
 If you have any questions, please contact us via email:<br>
 [ednesy@gmail.com](mailto:ednesy@gmail.com)
