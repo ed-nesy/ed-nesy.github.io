@@ -19,7 +19,7 @@ We welcome contributions on a broad range of Neural-Symbolic AI topics, includin
 - Benchmarking neural-symbolic AI systems
 - Applications 
 
-### Submission guidelines
+#### Submission guidelines
 
 - Ed-NeSy workshop welcome for talks and posters.
 
@@ -28,6 +28,8 @@ We welcome contributions on a broad range of Neural-Symbolic AI topics, includin
 - All papers will undergo **double-blind peer review**. All papers will undergo double-blind peer review.  Authors must ensure submissions are fully anonymized (no author names, affiliations, acknowledgments, or other identifying information). 
 
 -  If your submission is accepted as an abstract, you must **prepare a physical poster and present it at the poster session**. If accepted as an extended abstract, you will be invited to deliver a **30-minute oral presentation**.
+
+- **Submission site via openreview: [Edinburgh Workshop on Neural-Symbolic AI](openreview)** <br>
 
 
 <!-- Posters will need to be A1 size 23.4”w x 33.1”h (W 59.4 x H 89.1 cm) size, portrait (not landscape) and must be submitted in PDF format. Outstanding posters will be invited for a talk. -->
@@ -39,7 +41,7 @@ We welcome contributions on a broad range of Neural-Symbolic AI topics, includin
 <!-- by [contacting the workshop committee](mailto:xx@xx.com). -->
 <!-- We sincerely appreciate the sponsorship from xx on our workshop. -->
 
-**Submission site via openreview: [Edinburgh Workshop on Neural-Symbolic AI](openreview)** <br>
+#### Important Date
 
 **Abstract registration deadline**: April 30, 2025, 23:59 AOE <br>
 
