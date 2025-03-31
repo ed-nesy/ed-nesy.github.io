@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
-The workshop will be held in person on 5 June at the Informatics Forum, University of Edinburgh.
+The workshop will be held in person on 6 June at the Informatics Forum, University of Edinburgh.
 
 **TBD**
 
