@@ -30,13 +30,13 @@ Posters will need to be A1 size 23.4”w x 33.1”h (W 59.4 x H 89.1 cm) size, p
 
 **Submission site via openreview: [Edinburgh Workshop on Neural-Symbolic AI](openreview)** <br>
 
-**Abstract registration deadline:** TBD <br>
+**Abstract registration deadline**: April 30, 2025, 23:59 AOE <br>
 
-**Author notification:** TBD
+**Submission deadline**: April 30, 2025, 23:59 AOE
 
-**Submission deadlineSubmission deadline:** TBD
+**Author notification**: May 15, 2025, 23:59 AOE
 
-**Workshop:** TBD<br>
+**Workshop**: June 6, 2025, Edinburgh <br>
 
 All submission deadlines are end-of-day in the Anywhere on Earth (AoE) time zone. If your poster is accepted, your poster will be displayed in a poster session during the workshop. At least one author for each accepted poster must attend the workshop since you will be expected to present your poster at the time set aside for poster presentations. 
 
