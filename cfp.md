@@ -41,13 +41,13 @@ We welcome contributions on a broad range of Neural-Symbolic AI topics, includin
 
 ### Important Dates
 
-**Abstract registration deadline**: April 30, 2025, 23:59 AOE <br>
+- **Abstract registration deadline**: April 30, 2025, 23:59 AOE <br>
 
-**Submission deadline**: April 30, 2025, 23:59 AOE
+- **Submission deadline**: April 30, 2025, 23:59 AOE
 
-**Author notification**: May 15, 2025, 23:59 AOE
+- **Author notification**: May 15, 2025, 23:59 AOE
 
-**Workshop**: June 6, 2025, Edinburgh <br>
+- **Workshop**: June 6, 2025, Edinburgh <br>
 
 
 If you have any questions, please contact us via email:<br>
