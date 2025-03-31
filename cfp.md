@@ -19,7 +19,7 @@ We welcome contributions on a broad range of Neural-Symbolic AI topics, includin
 - Benchmarking neural-symbolic AI systems
 - Applications 
 
-## Submission guidelines
+### Submission guidelines
 
 - Ed-NeSy workshop welcome for talks and posters.
 
