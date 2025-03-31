@@ -19,7 +19,7 @@ We welcome contributions on a broad range of Neural-Symbolic AI topics, includin
 - Benchmarking neural-symbolic AI systems
 - Applications 
 
-#### Submission guidelines
+### Submission guidelines
 
 - Ed-NeSy workshop welcome for talks and posters.
 
@@ -41,7 +41,7 @@ We welcome contributions on a broad range of Neural-Symbolic AI topics, includin
 <!-- by [contacting the workshop committee](mailto:xx@xx.com). -->
 <!-- We sincerely appreciate the sponsorship from xx on our workshop. -->
 
-#### Important Date
+### Important Dates
 
 **Abstract registration deadline**: April 30, 2025, 23:59 AOE <br>
 
