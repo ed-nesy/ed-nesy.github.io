@@ -8,6 +8,8 @@ permalink: /cfp/
 
 <!-- and for **the camera ready submission**, which has the correct notice at the first page of your paper. Please use the option `\usepackage[final]{xx}` in your main text file. Please **upload your camera ready version via making a revision at OpenReview**.  -->
 
+
+<!--
 We welcome contributions on a broad range of Neural-Symbolic AI topics, including (but not limited to):  
 
 - Probabilistic Logic programming and deep learning 
@@ -18,8 +20,8 @@ We welcome contributions on a broad range of Neural-Symbolic AI topics, includin
 - Theoretical foundations of neural-symbolic AI systems
 - Benchmarking neural-symbolic AI systems
 - Applications 
+-->
 
-### Submission guidelines
 
 - Submission can be in the form of **abstract** and **extended abstract of 4 pages** (excluding references & appendix). Submissions must follow the **NeurIPS format**. 
 
@@ -28,6 +30,13 @@ We welcome contributions on a broad range of Neural-Symbolic AI topics, includin
 -  If your submission is accepted as an abstract, you must **prepare a physical poster and present it at the poster session**. If accepted as an extended abstract, you will be invited to deliver a **30-minute oral presentation**.
 
 - **Submission site via openreview: [Edinburgh Workshop on Neural-Symbolic AI](openreview)** <br>
+
+
+### Scope
+
+- **Integration Techniques**: Exploring various methods to effectively combine neural networks with symbolic reasoning, enhancing the interpretability of AI systems.
+- **Ethical Considerations**: Addressing the ethical implications of deploying neuro-symbolic AI, particularly in sensitive areas such as healthcare and law enforcement.
+- **Future Directions**: Identifying future research directions and potential applications of neural-symbolic AI in diverse fields, including robotics, natural language processing, and automated reasoning.
 
 
 <!-- Posters will need to be A1 size 23.4”w x 33.1”h (W 59.4 x H 89.1 cm) size, portrait (not landscape) and must be submitted in PDF format. Outstanding posters will be invited for a talk. -->
@@ -47,7 +56,7 @@ We welcome contributions on a broad range of Neural-Symbolic AI topics, includin
 
 - **Author notification**: May 15, 2025, 23:59 AOE
 
-- **Workshop**: June 6, 2025, Edinburgh <br>
+- **Workshop**: June 5, 2025, Edinburgh <br>
 
 
 If you have any questions, please contact us via email:<br>
