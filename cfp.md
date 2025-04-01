@@ -35,7 +35,9 @@ We welcome contributions on a broad range of Neural-Symbolic AI topics, includin
 ### Scope
 
 - **Integration Techniques**: Exploring various methods to effectively combine neural networks with symbolic reasoning, enhancing the interpretability of AI systems.
+
 - **Ethical Considerations**: Addressing the ethical implications of deploying neuro-symbolic AI, particularly in sensitive areas such as healthcare and law enforcement.
+
 - **Future Directions**: Identifying future research directions and potential applications of neural-symbolic AI in diverse fields, including robotics, natural language processing, and automated reasoning.
 
 
