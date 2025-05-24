@@ -30,12 +30,14 @@ permalink: /organisers/
       <a href="https://sites.google.com/view/cathyychen">Cathy Yi-Hsuan Chen</a><br />
       Glasgow
     </td>
+    <!--
     <td> 
       <img src="https://github.com/ed-nesy/ed-nesy.github.io/blob/main/images/Ekaterina_Komendantskaya.png
 ?raw=true"  alt="1" width = 150px height = 155px ><br />
       <a href="https://www.macs.hw.ac.uk/~ek19/">Ekaterina Komendantskaya</a><br />
       Edinburgh
     </td>
+    -->
     <!--
     <td> 
       <img src="https://github.com/ed-nesy/2025/blob/main/images/Min_Lin.jpeg?raw=true"  alt="1" width = 150px height = 155px ><br />
