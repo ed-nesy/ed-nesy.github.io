@@ -17,14 +17,14 @@ permalink: /organisers/
 ?raw=true"  alt="1" width = 150px height = 155px ><br />
       <a href="https://www.vaishakbelle.org/">Vaishak Belle</a><br />
       Edinburgh
+  </tr>
+  <tr>
     </td>
     <td> 
       <img src="https://github.com/ed-nesy/ed-nesy.github.io/blob/main/images/Miguel_de_Carvalho.png?raw=true"  alt="1" width = 150px height = 155px ><br />
       <a href="https://www.maths.ed.ac.uk/~mdecarv/">Miguel de Carvalho</a><br />
       Edinburgh
     </td>
-  </tr>
-  <tr>
     <td> 
       <img src="https://github.com/ed-nesy/ed-nesy.github.io/blob/main/images/Cathy_Chen.png?raw=true"  alt="1" width = 150px height = 155px ><br />
       <a href="https://sites.google.com/view/cathyychen">Cathy Yi-Hsuan Chen</a><br />
