@@ -8,15 +8,15 @@ permalink: /overview/
 The workshop will be held **virtually** at [https://xx.cc/virtual/xx/workshop/xx](https://xx.cc/virtual/xx/workshop/xx). The full recorded workshop will be open to general public some time later after the xx conference. If you would like to participate, you need to [register the xx ticket](https://xx.cc/Conferences/xx) first. -->
 
 
-We are currently experiencing a new era of AI where symbolic and neural techniques are being combined—referred to as Neural-Symbolic AI. This rapidly evolving area combines the strengths of neural networks and symbolic approaches, creating AI models, systems, and applications that benefit from both deep learning and symbolic reasoning. 
+<!--We are currently experiencing a new era of AI where symbolic and neural techniques are being combined—referred to as Neural-Symbolic AI. This rapidly evolving area combines the strengths of neural networks and symbolic approaches, creating AI models, systems, and applications that benefit from both deep learning and symbolic reasoning. 
 
-This workshop provides a venue for researchers, practitioners, and students to present and discuss recent advances, practical applications, and theories in Neural-Symbolic AI. We aim to foster collaboration, spark innovation, and drive progress in developing hybrid AI methodologies capable of solving complex, real-world problems.
+This workshop provides a venue for researchers, practitioners, and students to present and discuss recent advances, practical applications, and theories in Neural-Symbolic AI. We aim to foster collaboration, spark innovation, and drive progress in developing hybrid AI methodologies capable of solving complex, real-world problems.-->
 
-**Date: 5 June 2025**
+We are pleased to invite you to participate in the upcoming Edinburgh Workshop on Neural-Symbolic AI, which will be held on June 5th at the Medical School, University of Edinburgh.
 
-**Time: 10:00 AM – 5:00 PM**
+This workshop will focus on the area combining the strengths of neural networks and symbolic approaches, creating AI models, systems, and applications. We aim to provide a platform for insightful discussions, idea exchange, and potential collaboration. Whether you are already working in this area or simply curious to learn more, we warmly welcome your participation.
 
-**Venue: G.07 Meadows Lecture Theatre - Doorway 4 Lecture Theatre, Medical School (Old Medical School), University of Edinburgh, Teviot Place, Edinburgh EH8 9AG**
+**Registration: https://forms.office.com/e/fH0wnmArky**.
 
 <!-- ### Scope and Topics
 The workshop invites submissions on all topics in AI driven online advertising, with emphasis on areas in the following unexhausted list. 
