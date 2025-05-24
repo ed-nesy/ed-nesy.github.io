@@ -4,9 +4,13 @@ title: Schedule
 permalink: /schedule/
 ---
 
-The workshop will be held in person on 6 June at the Informatics Forum, University of Edinburgh.
+**Date: 5 June 2025**
 
-**TBD**
+**Time: 10:00 AM – 5:00 PM**
+
+**Venue: G.07 Meadows Lecture Theatre - Doorway 4 Lecture Theatre, Medical School (Old Medical School), University of Edinburgh, Teviot Place, Edinburgh EH8 9AG**
+
+
 
 
 <!--
