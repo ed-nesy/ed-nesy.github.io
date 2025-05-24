@@ -21,7 +21,7 @@ permalink: /organisers/
   <tr>
     </td>
     <td> 
-      <img src="https://github.com/ed-nesy/ed-nesy.github.io/blob/main/images/Miguel_de_Carvalho.png?raw=true"  alt="1" width = 150px height = 155px ><br />
+      <img src="https://github.com/ed-nesy/ed-nesy.github.io/blob/main/images/Miguel_Carvalho.png?raw=true"  alt="1" width = 150px height = 155px ><br />
       <a href="https://www.maths.ed.ac.uk/~mdecarv/">Miguel de Carvalho</a><br />
       Edinburgh
     </td>
