@@ -13,10 +13,10 @@ permalink: /organisers/
       Edinburgh
     </td>
     <td> 
-      <img src="https://github.com/ed-nesy/ed-nesy.github.io/blob/main/images/Vaishak_Belle.png
-?raw=true"  alt="1" width = 150px height = 155px ><br />
+      <img src="https://github.com/ed-nesy/ed-nesy.github.io/blob/main/images/Vaishak_Belle.png?raw=true"  alt="1" width = 150px height = 155px ><br />
       <a href="https://www.vaishakbelle.org/">Vaishak Belle</a><br />
       Edinburgh
+    </td>
   </tr>
   <tr>
     </td>
