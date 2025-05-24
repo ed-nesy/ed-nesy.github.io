@@ -16,7 +16,7 @@ We are pleased to invite you to participate in the upcoming Edinburgh Workshop o
 
 This workshop will focus on the area combining the strengths of neural networks and symbolic approaches, creating AI models, systems, and applications. We aim to provide a platform for insightful discussions, idea exchange, and potential collaboration. Whether you are already working in this area or simply curious to learn more, we warmly welcome your participation.
 
-**Registration: https://forms.office.com/e/fH0wnmArky**.
+**Registration: https://forms.office.com/e/fH0wnmArky.**
 
 <!-- ### Scope and Topics
 The workshop invites submissions on all topics in AI driven online advertising, with emphasis on areas in the following unexhausted list. 
