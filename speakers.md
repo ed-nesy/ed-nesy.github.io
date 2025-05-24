@@ -5,12 +5,13 @@ permalink: /speakers/
 ---
 
 
-
+<!--
 - **David Robertson**, Emeritus Chair of Applied Logic, University of Edinburgh
 - **Ekaterina Komendantskaya**, Professor in Computer Science, Southampton University and Heriot-Watt University
 - **Edoardo Ponti**, Lecturer in Natural Language Processing, University of Edinburgh
 - **Muhammad Najib**, Lecturer in School of Mathematical and Computer Sciences, Heriot-Watt University
 - **Kevin Murphy**, Cybersecurity Risk Architect – Lead, Lloyds Banking Group
+-->
 
 <table>
   <tr>
