@@ -4,9 +4,9 @@ title: Schedule
 permalink: /schedule/
 ---
 
-**Date: 5 June 2025**
+**Date: 5th June 2025**
 
-**Time: 9:30 AM – 17:00**
+**Time: 9:30 – 17:00**
 
 **Venue: G.07 Meadows Lecture Theatre - Doorway 4 Lecture Theatre, Medical School (Old Medical School), University of Edinburgh, Teviot Place, Edinburgh EH8 9AG**
 
