@@ -6,11 +6,31 @@ permalink: /schedule/
 
 **Date: 5 June 2025**
 
-**Time: 10:00 AM – 5:00 PM**
+**Time: 9:30 AM – 17:00**
 
 **Venue: G.07 Meadows Lecture Theatre - Doorway 4 Lecture Theatre, Medical School (Old Medical School), University of Edinburgh, Teviot Place, Edinburgh EH8 9AG**
 
+9:30--10:00 **Morning Tea and Coffee**.
 
+10:00--10:10 **Opening RemarkS**.
+
+10:10--10:50 **Invited talk by David Robertson**.
+
+10:50--11:30 **Invited talk by Muhammad Najib**.
+
+11:30--12:00 **Tea Break**.
+
+12:00--12:40 **Invited talk by Edoardo Ponti**.
+
+12:40--14:00 **Lunch Break**.
+
+14:00--14:40 **Invited talk by Ekaterina Komendantskaya**.
+
+14:40--15:20 **Panel Discussion: Speakers + Kevin Murphy**.
+
+15:20--15:30 **Wrap-Up and Group Photo**.
+
+15:30--17:00 **Drinks Reception**.
 
 
 <!--
