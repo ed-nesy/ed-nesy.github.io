@@ -10,27 +10,33 @@ permalink: /schedule/
 
 **Venue: G.07 Meadows Lecture Theatre - Doorway 4 Lecture Theatre, Medical School (Old Medical School), University of Edinburgh, Teviot Place, Edinburgh EH8 9AG**
 
-9:30--10:00 **Morning Tea and Coffee**.
+9:30--10:00 Registration and Tea.
 
-10:00--10:10 **Opening RemarkS**.
+10:00--10:10 Opening RemarkS.
 
-10:10--10:50 **Invited talk by David Robertson**.
+10:10--10:50 **Talk 1: David Robertson** (Emeritus Chair of Applied Logic, University of Edinburgh)
+            
+**Neural-Symbolic AI in Healthcare: Why this is a challenge**.
 
-10:50--11:30 **Invited talk by Muhammad Najib**.
+10:50--11:30 **Talk 2: Muhammad Najib** (Lecturer, School of Mathematical and Computer Sciences, Heriot-Watt University)
 
-11:30--12:00 **Tea Break**.
+**Rational Verification in the Age of LLMs**.
 
-12:00--12:40 **Invited talk by Edoardo Ponti**.
+11:30--12:00 Tea Break.
 
-12:40--14:00 **Lunch Break**.
+12:00--12:40 **Talk 3: Edoardo Ponti** (Lecturer in Natural Language Processing, University of Edinburgh)
 
-14:00--14:40 **Invited talk by Ekaterina Komendantskaya**.
+**Neurosymbolic Diffusion Models**.
 
-14:40--15:20 **Panel Discussion: Speakers + Kevin Murphy**.
+12:40--14:00 Lunch Break.
 
-15:20--15:30 **Wrap-Up and Group Photo**.
+14:00--14:40 **Talk 4: Ekaterina Komendantskaya** (Professor in Computer Science, Southampton University and Heriot-Watt University)
 
-15:30--17:00 **Drinks Reception**.
+**Probabilistic Verification of Neuro-Symbolic Programs: from ProbLog to ProbRocq?**.
+
+14:40--15:20 Panel Discussion: Speakers + **Kevin Murphy** (Cybersecurity Risk Architect – Lead, Lloyds Banking Group).
+
+15:20--16:30 Wrap-Up and Drinks Reception.
 
 
 <!--
