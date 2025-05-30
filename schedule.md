@@ -14,7 +14,7 @@ permalink: /schedule/
 
 10:00--10:10 Opening Remark.
 
-10:10--10:50 **Talk 1: David Robertson**, **Neural-Symbolic AI in Healthcare: Why this is a challenge**.
+10:10--10:50 **Talk 1: David Robertson**, **"Neural-Symbolic AI in Healthcare: Why this is a challenge"**.
 
 10:50--11:30 **Talk 2: Muhammad Najib**, **Rational Verification in the Age of LLMs**.
 
