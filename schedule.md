@@ -16,15 +16,15 @@ permalink: /schedule/
 
 10:10--10:50 **Talk 1: David Robertson**, **"Neural-Symbolic AI in Healthcare: Why this is a challenge"**.
 
-10:50--11:30 **Talk 2: Muhammad Najib**, **Rational Verification in the Age of LLMs**.
+10:50--11:30 **Talk 2: Muhammad Najib**, **"Rational Verification in the Age of LLMs"**.
 
 11:30--12:00 Tea Break.
 
-12:00--12:40 **Talk 3: Edoardo Ponti**, **Neurosymbolic Diffusion Models**.
+12:00--12:40 **Talk 3: Edoardo Ponti**, **"Neurosymbolic Diffusion Models"**.
 
 12:40--14:00 Lunch Break.
 
-14:00--14:40 **Talk 4: Ekaterina Komendantskaya**, **Probabilistic Verification of Neuro-Symbolic Programs: from ProbLog to ProbRocq?**.
+14:00--14:40 **Talk 4: Ekaterina Komendantskaya**, **"Probabilistic Verification of Neuro-Symbolic Programs: from ProbLog to ProbRocq?"**.
 
 14:40--15:20 Panel Discussion: Speakers + **Kevin Murphy**.
 
