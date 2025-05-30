@@ -12,7 +12,7 @@ permalink: /schedule/
 
 9:30--10:00 Registration and Tea.
 
-10:00--10:10 Opening RemarkS.
+10:00--10:10 Opening Remark.
 
 10:10--10:50 **Talk 1: David Robertson** (Emeritus Chair of Applied Logic, University of Edinburgh)
             
